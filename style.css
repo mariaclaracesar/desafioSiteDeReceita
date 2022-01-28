@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  --background-page: #eaeaea;
+  --background-recipe: #ffffff;
+  --title-caption: #1b1b1b;
+  --caption-image: #8f8f8f;
+  --texts: #39393a;
+}
+
+body {
+  background: var(--background-page);
+  font-family: 'Roboto', sans-serif;
+}
